@@ -16,3 +16,4 @@ gochat/
 ├── docker-compose.yml
 ├── Makefile
 └── go.mod
+.golangci.yml
